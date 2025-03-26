@@ -6,6 +6,14 @@ Software Engineering student from India. 🇮🇳
 - 🚀 All of my projects are available at [company](https://www.upgoer.com)  
 - 📫 How to reach me: **ramc87839@gmail.com**  
 
+## 🌟 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ramsingh)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/ramsingh)  
+
+## 🚀 Languages & Tools  
+![React](https://img.shields.io/badge/React-blue?logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)  
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)  
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
