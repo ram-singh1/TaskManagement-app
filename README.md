@@ -2,7 +2,7 @@
 
 Software Engineering student from India. 🇮🇳  
 
- 🌱 I’m currently exploring **Modern_UI**  
+- 🌱 I’m currently exploring **Modern_UI**  
 - 🚀 All of my projects are available at [company](https://www.upgoer.com)  
 - 📫 How to reach me: **ramc87839@gmail.com**  
 
