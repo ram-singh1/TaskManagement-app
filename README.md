@@ -2,6 +2,11 @@
 
 Software Engineering student from India. 🇮🇳  
 
+ 🌱 I’m currently exploring **Modern_UI**  
+- 🚀 All of my projects are available at [company](https://www.upgoer.com)  
+- 📫 How to reach me: **ramc87839@gmail.com**  
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
