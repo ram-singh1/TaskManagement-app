@@ -7,8 +7,8 @@ Software Engineering student from India. 🇮🇳
 - 📫 How to reach me: **ramc87839@gmail.com**  
 
 ## 🌟 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ramsingh)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/ramsingh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/ram9866singh)  
 
 ## 🚀 Languages & Tools  
 ![React](https://img.shields.io/badge/React-blue?logo=react)  
