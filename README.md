@@ -15,6 +15,28 @@ Software Engineering student from India. 🇮🇳
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb)  
 
+## 🚀 Skills & Technologies  
+
+### **Frontend Development**  
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)  
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
+![React.js](https://img.shields.io/badge/React.js-blue?logo=react)  
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)  
+![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)  
+
+### **UI/UX & Design**  
+![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)  
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-brightgreen)  
+
+### **Testing & Others**  
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-important)  
+
+---
+
+💡 _I love building interactive and user-friendly applications!_ 🚀  
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
